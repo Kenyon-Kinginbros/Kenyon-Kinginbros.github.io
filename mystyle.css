@@ -11,7 +11,7 @@ header{
 	text-align: center;
 	line-height: 15px;
 	padding: 10px;
-	position: fixed;
+	position: static;
 }
 li{
 	text-align: center;
