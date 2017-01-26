@@ -9,7 +9,8 @@ header{
 	color: rgba(255, 255, 255, 1);
 	background: rgba(255, 0, 0, 1);
 	text-align: center;
-	
+	line-height: 15px;
+	padding: 10px;
 }
 li{
 	text-align: center;
