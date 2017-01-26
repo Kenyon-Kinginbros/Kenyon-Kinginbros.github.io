@@ -3,6 +3,7 @@ body{
 	background: url("pq2djbntzw0-jeremy-thomas.jpg");
 	color: #ff4000;
 	background-size: cover;
+	background-position: center;
 }
 header{
 	text-align: center;
